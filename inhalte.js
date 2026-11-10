@@ -8,96 +8,96 @@ window.INHALTE = {
   "neuigkeiten": [],
   "tuerchen": [
     {
-      "titel": "Ein Glas Wasser zum Start",
-      "text": "Trinke heute gleich nach dem Aufstehen ein großes Glas Wasser."
+      "titel": "Farbenjagd",
+      "text": "Eine Farbe wählen, die dich heute anzieht. In 5 Minuten 7 Dinge in dieser Farbe in der Wohnung sammeln. Danach spüren: Was macht diese Farbe mit dir? Für welche Emotionen steht diese Farbe?"
     },
     {
-      "titel": "Drei tiefe Atemzüge",
-      "text": "Atme 4 Sekunden ein und 6 Sekunden aus. Wiederhole das dreimal – so oft du magst."
+      "titel": "Brief von deinem Körper",
+      "text": "Mit der nicht-dominanten Hand schreibt dein Körper dir einen Brief: „Was ich dir schon lange sagen will …“ Ungefiltert, ohne Nachdenken."
     },
     {
-      "titel": "Raus ans Tageslicht",
-      "text": "Gönne dir heute 10 Minuten Tageslicht, am besten am Vormittag."
+      "titel": "Innenwetter",
+      "text": "Wie ist das Wetter in dir (Sonne, Nebel, Gewitter, Windstille)? Als Wetterbericht aufschreiben oder zeichnen, inklusive Prognose für den Abend."
     },
     {
-      "titel": "Schultern lösen",
-      "text": "Lass deine Schultern zehnmal langsam nach hinten kreisen. Spürst du den Unterschied?"
+      "titel": "Schüttel-Song",
+      "text": "Ein Lieblingslied, 3 Minuten komplett durchschütteln (Arme, Beine, Kiefer, Bauch). Danach 1 Minute still stehen und nachspüren."
     },
     {
-      "titel": "Der bunte Teller",
-      "text": "Bring heute mindestens drei Farben Obst oder Gemüse auf deinen Teller."
+      "titel": "Brummen auf dem Brustbein",
+      "text": "Hand aufs Brustbein, tief einatmen und beim Ausatmen summen oder brummen. Die Vibration unter der Hand verfolgen, drei Töne ausprobieren, welcher am wohltuendsten ist."
     },
     {
-      "titel": "Treppe statt Aufzug",
-      "text": "Nimm heute jede Treppe, die dir begegnet."
+      "titel": "Blind durch die Wohnung",
+      "text": "Barfuß, Augen zu, 5 Minuten Böden, Stoffe und Gegenstände ertasten. Zum Schluss einen Gegenstand mit geschlossenen Augen wählen und schauen, was es war."
     },
     {
-      "titel": "Eine handyfreie Stunde",
-      "text": "Leg dein Handy für eine Stunde weg und tu etwas nur für dich."
+      "titel": "Gegenstand, der dich heute beschreibt",
+      "text": "Etwas im Haus suchen, das zu deiner aktuellen Stimmung passt. Dann einen zweiten, der zeigt, wie du dich gern fühlen würdest. Den Abstand dazwischen wahrnehmen."
     },
     {
-      "titel": "Drei Dankbarkeiten",
-      "text": "Schreibe drei Dinge auf, für die du heute dankbar bist – auch kleine zählen."
+      "titel": "Ich bin jemand, der …",
+      "text": "10 Sätze, aber ohne Beruf, Rolle oder Familienstand. Nur das, was dich ausmacht."
     },
     {
-      "titel": "Strecken!",
-      "text": "Steh auf, strecke dich zur Decke und gähne herzhaft. Eine Minute reicht."
+      "titel": "Stuhl-Perspektive",
+      "text": "5 Minuten an einem Platz sitzen, wo du nie sitzt. Was siehst du neu? Was fällt dir plötzlich auf?"
     },
     {
-      "titel": "Früher ins Bett",
-      "text": "Gehe heute 30 Minuten früher schlafen als sonst."
+      "titel": "Danke an den Körper, konkret",
+      "text": "Bei 5 Körperteilen bedanken, mit einem echten Grund („Danke, Füße, ihr habt mich heute durch den Tag getragen“). Hand dabei jeweils auflegen."
     },
     {
-      "titel": "Fünfzehn-Minuten-Spaziergang",
-      "text": "Dreh eine Runde um den Block – ohne Ziel, nur mit offenen Augen."
+      "titel": "Das Kind in dir",
+      "text": "Was hast du mit 8 am liebsten gemacht? Genau das 5 Minuten tun (malen, hüpfen, bauen, singen)."
     },
     {
-      "titel": "Ein Lächeln verschenken",
-      "text": "Schenke heute einem Menschen ein ehrliches Lächeln."
+      "titel": "Drei Nein, drei Ja",
+      "text": "Zettel teilen. Links drei Dinge, zu denen du diese Woche Nein sagen willst, rechts drei, zu denen du mehr Ja sagen willst. Zettel sichtbar aufhängen."
     },
     {
-      "titel": "Bewusst essen",
-      "text": "Iss heute eine Mahlzeit ohne Bildschirm und schmecke jeden Bissen."
+      "titel": "Bauch-Interview",
+      "text": "Hand auf den Bauch, drei Fragen an Don Darm stellen („Was hat dir heute gutgetan? Was war zu viel? Was wünschst du dir?“). Die Antworten spontan aufschreiben, ohne zu bewerten."
     },
     {
-      "titel": "Kräutertee-Pause",
-      "text": "Koche dir einen Tee, setz dich hin und trinke ihn in Ruhe."
+      "titel": "Geschmacks-Detektiv",
+      "text": "Augen zu, jemand oder du selbst greifst nach 3 Dingen aus Küche oder Vorrat (Gewürz, Obst, Kräuter). Erst riechen, dann schmecken, raten. Die Verdauung beginnt im Mund, und das macht den Sinnen Spaß."
     },
     {
-      "titel": "Barfuß",
-      "text": "Geh ein paar Minuten barfuß und spüre den Boden unter deinen Füßen."
+      "titel": "Überkreuz-Tanz",
+      "text": "Zu einem Lieblingslied Ellbogen zum gegenüberliegenden Knie, dann den eigenen Namen mit dem Fuß in die Luft schreiben. Das bringt beide Gehirnhälften in Schwung und endet meist im Lachen."
     },
     {
-      "titel": "Einmal Nein sagen",
-      "text": "Überlege, was du heute nicht tun musst – und lass es."
+      "titel": "Gefühls-Landkarte",
+      "text": "Einen Körperumriss auf den Zettel zeichnen und die Gefühle des Tages mit Farben oder Mustern dort eintragen, wo man sie spürt. Zum Schluss fragen: Welcher Fleck bekommt jetzt Zuwendung?"
     },
     {
-      "titel": "Dein Lieblingslied",
-      "text": "Spiele dein Lieblingslied und sing oder tanz dazu."
+      "titel": "Freuden-Altar",
+      "text": "Drei Dinge im Haus suchen, die Freude machen (Foto, Stein, Tasse, Stoff), schön arrangieren und die Anordnung einen Tag stehen lassen. Ein Foto davon als Erinnerung."
     },
     {
-      "titel": "Nacken entspannen",
-      "text": "Neige den Kopf langsam zur Seite und halte 20 Sekunden. Dann zur anderen Seite."
+      "titel": "Regenbogen-Teller",
+      "text": "Im Kühlschrank und Vorrat so viele Regenbogenfarben wie möglich finden und daraus eine Mini-Mahlzeit oder einen Snack-Teller bauen. Passt direkt zu „Gesundheit ist Farbe im Leben“."
     },
     {
-      "titel": "Nüsse als Snack",
-      "text": "Greife heute statt zu Süßem zu einer Handvoll Nüsse."
+      "titel": "Rückwärts-Film",
+      "text": "Im Bett den Tag rückwärts abspielen, vom Moment jetzt bis zum Aufwachen, und aus jeder Szene eine schöne Kleinigkeit mitnehmen. Das beruhigt das Gedankenkarussell."
     },
     {
-      "titel": "Ruf jemanden an",
-      "text": "Ruf einen Menschen an, den du magst – nur um Hallo zu sagen."
+      "titel": "Faszien-Pause",
+      "text": "Einen Tennisball (oder eine zum Knäuel gerollte Socke) unter die Fußsohle legen und 3 Minuten pro Fuß rollen. Danach im Stehen vergleichen: Wie fühlt sich die linke Seite im Vergleich zur rechten an?"
     },
     {
-      "titel": "Fenster auf",
-      "text": "Lüfte heute 5 Minuten kräftig durch und atme frische Luft."
+      "titel": "Beckenuhr",
+      "text": "Auf dem Rücken liegend das Becken sanft zu den Uhrzeiten 12, 3, 6 und 9 kippen. Ohne Anstrengung, nur spüren, wo es leicht und wo es zäh ist."
     },
     {
-      "titel": "Die längste Nacht",
-      "text": "Zünde eine Kerze an und nimm dir fünf ruhige Minuten für dich."
+      "titel": "Einladung an dich selbst",
+      "text": "Eine richtige Einladung mit Termin schreiben („Du bist am Samstag um 16 Uhr zu 30 Minuten nur für dich eingeladen“) und den Termin ins Handy eintragen. Ohne Pflichtprogramm."
     },
     {
-      "titel": "Rückblick",
-      "text": "Was hat dir in diesem Jahr gutgetan? Schreibe es auf."
+      "titel": "Abfluss-Fußbad",
+      "text": "Schüssel, warmes Wasser, eine Prise Salz. Nach dem Bad die Füße von den Zehen Richtung Knie ausstreichen und dabei innerlich fragen: Was darf heute abfließen?"
     },
     {
       "titel": "Heiligabend",
