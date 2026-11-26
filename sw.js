@@ -1,7 +1,7 @@
 // Service Worker der Schülke-Methode-App
 // Strategie: erst Netz (damit neue Texte sofort ankommen), bei fehlendem Netz die zuletzt gespeicherte Version.
 const CACHE = 'schuelke-v1';
-const DATEIEN = ['./', 'index.html', 'inhalte.js', 'manifest.webmanifest', 'icons/icon-192.png', 'icons/icon-512.png', 'icons/apple-touch-icon.png', 'app-installieren.html'];
+const DATEIEN = ['./', 'index.html', 'inhalte.js', 'manifest.webmanifest', 'assets/logo.png', 'icons/icon-192.png', 'icons/icon-512.png', 'icons/apple-touch-icon.png', 'app-installieren.html'];
 
 self.addEventListener('install', e => {
     e.waitUntil(caches.open(CACHE).then(c => c.addAll(DATEIEN)).then(() => self.skipWaiting()));

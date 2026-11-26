@@ -100,8 +100,8 @@ window.INHALTE = {
       "text": "Schüssel, warmes Wasser, eine Prise Salz. Nach dem Bad die Füße von den Zehen Richtung Knie ausstreichen und dabei innerlich fragen: Was darf heute abfließen?"
     },
     {
-      "titel": "Heiligabend",
-      "text": "Halte einen Moment inne. Du bestimmst, wie bunt es wird!"
+      "titel": "Dein Gutschein",
+      "text": "15 % Rabatt auf alle Produkte der Schülke Methode. Einmal einlösbar, gültig im Jahr 2027 (bis 31.12.2027). Nicht mit anderen Rabatten kombinierbar."
     }
   ]
 };
